@@ -27,7 +27,7 @@ twitter_username: atirado
 github_username:  atiradonet
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: jekyll-text-theme
 plugins:
   - jekyll-feed
 
