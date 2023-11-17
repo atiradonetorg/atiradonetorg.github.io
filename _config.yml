@@ -28,7 +28,7 @@ github_username:  atiradonet
 show_downloads: false
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: hacker
 plugins:
   - jekyll-feed
 
